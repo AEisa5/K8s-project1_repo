@@ -5,8 +5,8 @@ This repository contains **K8s Project 1**, a practical hands-on project focused
 The project demonstrates real-world Kubernetes concepts including deployments, services, namespaces, and cluster management.
 
 ---
-
-## 🧱 Project Structure
+## 🏗️ Architecture Diagram
+![Architecture Diagram](screenshots/Screenshot%202026-02-09%20233754.png)
 ```bash
 K8s-project1_repo/
 │── manifests/          # Kubernetes YAML files
